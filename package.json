@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-template-engines",
+  "version": "1.0.0",
+  "scripts":{
+	  "start": "lerna run start",
+	  "start:pug": "lerna run start --scope={pug}",
+	  "dev": "lerna run dev",
+	  "diff":"learn diff",
+	  "bootstrap":"npx lerna bootstrap --hoist",
+	  "clean":"npx lerna clean -y"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
