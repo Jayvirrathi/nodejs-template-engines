@@ -9,12 +9,16 @@
 * [EJS](https://www.npmjs.com/package/ejs)
   * Embedded JavaScript templates
 
+* [Nunjucks](https://www.npmjs.com/package/nunjucks)
+  * Nunjucks is a full featured templating engine for javascript. It is heavily inspired by jinja2. 
+
 
 Name | Port
 ------------- | -------------
 Pug  | 3000
 Express Handlebars  | 3001
 EJS  | 3002
+Nunjucks  | 3003
 
 ## Setup
 
