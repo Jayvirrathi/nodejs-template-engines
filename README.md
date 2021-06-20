@@ -12,6 +12,9 @@
 * [Nunjucks](https://www.npmjs.com/package/nunjucks)
   * Nunjucks is a full featured templating engine for javascript. It is heavily inspired by jinja2. 
 
+* [Liquid](https://www.npmjs.com/package/liquidjs)
+  * A simple, expressive, safe and Shopify compatible template engine in pure JavaScript. 
+
 
 Name | Port
 ------------- | -------------
@@ -19,6 +22,7 @@ Pug  | 3000
 Express Handlebars  | 3001
 EJS  | 3002
 Nunjucks  | 3003
+Liquid  | 3004
 
 ## Setup
 
